@@ -38,6 +38,7 @@ Collection of websites on design, development, and useful tools.
 
 
 ## Inspiración de Diseño
+- [animagraffs](https://animagraffs.com/)
 
 
 ## Herramientas Útiles
