@@ -34,11 +34,39 @@ Collection of websites on design, development, and useful tools.
 - []()
 - []()
 
+## Cursos
 
+- [alison](https://alison.com/es/)
+- [classcentral](https://www.classcentral.com/)
 
 
 ## Inspiración de Diseño
 - [animagraffs](https://animagraffs.com/)
 
+### Animations
+- [spacetypegenerator](https://spacetypegenerator.com/)
+- [jitter](https://jitter.video/)
 
 ## Herramientas Útiles
+
+### Anatomia
+
+- [biodigital](https://human.biodigital.com/login?returnUrl=/explore)
+
+### Stirutelling
+
+- [storytribeapp](https://storytribeapp.com/)
+
+### Mapas
+
+- [terraink.app](https://terraink.app/)
+
+- [mult.dev](https://mult.dev/)
+
+### Medicina
+
+- [meetaugust](https://www.meetaugust.ai/)
+
+### whats app
+
+. [mcstumble](https://www.mcstumble.com/tools/fake-text-message)
