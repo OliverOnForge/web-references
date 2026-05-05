@@ -34,13 +34,6 @@ Collection of websites on design, development, and useful tools.
 - []()
 - []()
 
-## Cursos
-
-- [alison](https://alison.com/es/)
-- [classcentral](https://www.classcentral.com/)
-- [vscodeedu](https://vscodeedu.com/courses)
-
-
 ## Inspiración de Diseño
 - [animagraffs](https://animagraffs.com/)
 
